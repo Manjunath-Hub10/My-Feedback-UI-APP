@@ -142,7 +142,8 @@ input:focus {
 }
 
 .edit {
-  right: 40px;
+  top: 130px;
+  right: 15px;
 }
 
 .btn {
